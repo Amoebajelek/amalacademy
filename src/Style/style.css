@@ -1,0 +1,18 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #222222;
+}
+
+#Navigation .logo-brand {
+  width: 40px;
+}
+#Navigation .btn-register {
+  background-color: #EBEBEB;
+}
+
+#Header {
+  height: 100vh;
+  background-color: #222222;
+}/*# sourceMappingURL=style.css.map */
