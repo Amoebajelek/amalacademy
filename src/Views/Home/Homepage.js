@@ -1,5 +1,6 @@
 import Navigation from "../../Components/Navigation"
 import Bootcamps from "./Bootcamps"
+import Categories from "./Categories"
 import Header from "./Header"
 
 const Homepage = () => {
@@ -8,6 +9,7 @@ const Homepage = () => {
       <Navigation />
       <Header />
       <Bootcamps />
+      <Categories />
     </div>
   )
 }

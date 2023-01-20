@@ -74,6 +74,32 @@ body .card .logo-tech {
   margin-top: 150px;
 }
 #Bootcamps h3 {
+  margin-top: -10px;
   font-size: 32px;
   font-weight: 700;
+}
+
+#Categories {
+  margin-top: 150px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url(../Assets/Ornaments.png);
+  background-size: cover;
+}
+#Categories h3 {
+  margin-top: -10px;
+  font-size: 32px;
+  font-weight: 700;
+}
+#Categories .list-categories {
+  border-radius: 10px;
+  padding-top: 20px;
+  width: 425px;
+}
+#Categories .list-categories .logo-general {
+  width: 40px;
+}
+#Categories .list-categories h4 {
+  font-size: 20px;
+  font-weight: 600;
 }/*# sourceMappingURL=style.css.map */

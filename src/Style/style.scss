@@ -8,6 +8,7 @@ body {
     color: #814EDF;
   }
 
+  // Component : Card
   .card {
     border-radius: 10px;
     border: none;
@@ -95,7 +96,37 @@ body {
   margin-top: 150px;
 
   h3  {
+    margin-top: -10px;
     font-size: 32px;
     font-weight: 700;
+  }
+}
+
+#Categories {
+  margin-top: 150px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url(../Assets/Ornaments.png);
+  background-size: cover;
+  
+  h3  {
+    margin-top: -10px;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .list-categories  {
+    border-radius: 10px;
+    padding-top: 20px;
+    width: 425px;
+
+    .logo-general {
+      width: 40px;
+    }
+
+    h4  {
+      font-size: 20px;
+      font-weight: 600;
+    }
   }
 }

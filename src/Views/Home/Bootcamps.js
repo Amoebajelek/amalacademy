@@ -12,13 +12,13 @@ const Bootcamps = () => {
         </div>
         <div className="row">
           <div className="col-lg-4 mt-5">
-            <Card />
+            <Card title='Berkarir sebagai Full-Stack Javascript Developer' qcourse='12' qtime='34' />
           </div>
           <div className="col-lg-4 mt-5">
-            <Card />
+            <Card title='Berkarir sebagai Freelancer Mobile Application Developer' qcourse='9' qtime='24' />
           </div>
           <div className="col-lg-4 mt-5">
-            <Card />
+            <Card title='Berkarir sebagai Freelancer IOS Developer' qcourse='9' qtime='24' />
           </div>
         </div>
       </div>
