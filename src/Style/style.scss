@@ -7,6 +7,31 @@ body {
   .purple-color {
     color: #814EDF;
   }
+
+  .card {
+    border-radius: 10px;
+    border: none;
+
+    .card-img-top {
+      border-radius: 10px;
+      width: 367px;
+    }
+
+    .card-title {
+      font-size: 22px;
+      font-weight: 600;
+    }
+
+    .card-text  {
+      font-size: 16px;
+      font-weight: 400;
+    }
+
+    .logo-tech  {
+      width: 40px;
+
+    }
+  }
 }
 
 // Section Navigation
@@ -45,7 +70,7 @@ body {
 
   // Stats
   .section-categories {
-    margin-top: 150px;
+    margin-top: 180px;
     color: #222;
     background-color: #FFF;
     border-radius: 10px;
@@ -63,5 +88,14 @@ body {
       font-size: 14px;
       font-weight: 300;
     }
+  }
+}
+
+#Bootcamps  {
+  margin-top: 150px;
+
+  h3  {
+    font-size: 32px;
+    font-weight: 700;
   }
 }

@@ -7,6 +7,25 @@ body {
 body .purple-color {
   color: #814EDF;
 }
+body .card {
+  border-radius: 10px;
+  border: none;
+}
+body .card .card-img-top {
+  border-radius: 10px;
+  width: 367px;
+}
+body .card .card-title {
+  font-size: 22px;
+  font-weight: 600;
+}
+body .card .card-text {
+  font-size: 16px;
+  font-weight: 400;
+}
+body .card .logo-tech {
+  width: 40px;
+}
 
 #Navigation .logo-brand {
   width: 40px;
@@ -34,7 +53,7 @@ body .purple-color {
   font-weight: 900;
 }
 #Header .section-categories {
-  margin-top: 150px;
+  margin-top: 180px;
   color: #222;
   background-color: #FFF;
   border-radius: 10px;
@@ -49,4 +68,12 @@ body .purple-color {
   margin-top: 10px;
   font-size: 14px;
   font-weight: 300;
+}
+
+#Bootcamps {
+  margin-top: 150px;
+}
+#Bootcamps h3 {
+  font-size: 32px;
+  font-weight: 700;
 }/*# sourceMappingURL=style.css.map */
