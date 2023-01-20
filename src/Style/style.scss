@@ -138,6 +138,7 @@ body {
 
 #Classes  {
   padding-top: 150px;
+  padding-bottom: 150px;
 
   h3 {
     margin-top: -10px;
@@ -150,4 +151,25 @@ body {
     margin-right: 10px;
   }
 
+}
+
+#Values {
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  img {
+    width: 623px;
+  }
+
+  h3 {
+    margin-top: -10px;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .icon-checklist-purple  {
+    height: 24px;
+    width: 24px;
+    margin-right: 10px;
+  }
 }

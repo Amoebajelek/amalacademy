@@ -3,6 +3,7 @@ import Bootcamps from "./Bootcamps"
 import Categories from "./Categories"
 import Classes from "./Classes"
 import Header from "./Header"
+import Values from "./Values"
 
 const Homepage = () => {
   return (
@@ -12,6 +13,7 @@ const Homepage = () => {
       <Bootcamps />
       <Categories />
       <Classes />
+      <Values />
     </div>
   )
 }

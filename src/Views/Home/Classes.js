@@ -16,17 +16,11 @@ const Classes = () => {
             <CardClass title='Full-Stack Laravel React Js: Building Streaming Music Web' sprice='Rp. 329,000' dprice='Rp. 29,000' />
           </div>
           <div className="col-lg-4 mt-5">
-            <CardClass title='Full-Stack Laravel React Js: Building Streaming Music Web' sprice='Rp. 329,000' dprice='Rp. 29,000' />
+            <CardClass title='Full-Stack Flutter Dev : Build Easy Wallet App' sprice='Rp. 599,000' dprice='Rp. 49,000' />
           </div>
           <div className="col-lg-4 mt-5">
-            <CardClass title='Full-Stack Laravel React Js: Building Streaming Music Web' sprice='Rp. 329,000' dprice='Rp. 29,000' />
+            <CardClass title='Complete Freelancer UI/UX & Illustration Design' dprice='Rp. 399,000' />
           </div>
-          {/* <div className="col-lg-4 mt-5">
-            <CardClass title='Berkarir sebagai Freelancer Mobile Application Developer' qcourse='9' qtime='24' />
-          </div>
-          <div className="col-lg-4 mt-5">
-            <CardClass title='Berkarir sebagai Freelancer IOS Developer' qcourse='9' qtime='24' />
-          </div> */}
         </div>
       </div>
     </section>

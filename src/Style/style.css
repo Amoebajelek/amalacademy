@@ -110,6 +110,7 @@ body .card .logo-tech {
 
 #Classes {
   padding-top: 150px;
+  padding-bottom: 150px;
 }
 #Classes h3 {
   margin-top: -10px;
@@ -118,5 +119,23 @@ body .card .logo-tech {
 }
 #Classes p {
   font-weight: 500;
+  margin-right: 10px;
+}
+
+#Values {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#Values img {
+  width: 623px;
+}
+#Values h3 {
+  margin-top: -10px;
+  font-size: 32px;
+  font-weight: 700;
+}
+#Values .icon-checklist-purple {
+  height: 24px;
+  width: 24px;
   margin-right: 10px;
 }/*# sourceMappingURL=style.css.map */
