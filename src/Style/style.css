@@ -11,8 +11,15 @@ body .purple-color {
 #Navigation .logo-brand {
   width: 40px;
 }
-#Navigation .btn-register {
+#Navigation .nav-item {
+  margin-left: 10px;
+}
+#Navigation .nav-item .nav-link {
+  font-weight: 500;
+}
+#Navigation .btn-navbar-right {
   background-color: #EBEBEB;
+  margin-right: 20px;
 }
 
 #Header {
@@ -37,10 +44,6 @@ body .purple-color {
 }
 #Header .section-categories .categories-detail .icon-category {
   width: 40px;
-}
-#Header .section-categories h2 {
-  font-size: 30px;
-  margin-bottom: 0;
 }
 #Header .section-categories p {
   margin-top: 10px;

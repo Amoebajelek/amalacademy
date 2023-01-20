@@ -14,8 +14,19 @@ body {
   .logo-brand {
     width: 40px;
   }
-  .btn-register {
+
+  .nav-item {
+    margin-left: 10px;
+    
+    .nav-link {
+      font-weight: 500;
+    }
+
+  }
+
+  .btn-navbar-right {
     background-color: #EBEBEB;
+    margin-right: 20px;
   }
 }
 
@@ -23,7 +34,6 @@ body {
 #Header {
   padding: 150px 0 0px;
   height: 70vh;
-  // background-color: #EBEBEB;
   background-image: url(../Assets/img-jumbotron.png);
   background-size: cover;
   color: #FFFFFF;
@@ -46,12 +56,6 @@ body {
       .icon-category  {
         width: 40px;
       }
-    }
-  
-    h2 {
-      font-size: 30px;
-      margin-bottom: 0;
-  
     }
   
     p {

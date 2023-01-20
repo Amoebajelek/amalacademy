@@ -47,18 +47,18 @@ const Navigation = () => {
             
             {/* Mobile button */}
             <form className="form-inline d-sm-block d-md-none">
-              <button className="btn btn-register my-2 my-sm-0">
+              <button className="btn btn-navbar-right my-2 my-sm-0">
                 Login / Register
               </button>
             </form>
 
             {/* Desktop Button */}
             <form className="form-inline my-2 my-lg-0 d-none d-md-block ms-auto">
-              <button className="btn btn-register my-2 my-sm-0 px-4">
+              <button className="btn btn-navbar-right my-2 my-sm-0 px-4">
               Login / Register
               </button>
             </form>
-            
+
           </div>
         </div>
       </nav>
