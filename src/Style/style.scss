@@ -3,8 +3,13 @@ body {
   font-size: 16px;
   font-weight: 500;
   color: #222222;
+
+  .purple-color {
+    color: #814EDF;
+  }
 }
 
+// Section Navigation
 #Navigation {
   .logo-brand {
     width: 40px;
@@ -14,7 +19,45 @@ body {
   }
 }
 
+// Section Header
 #Header {
-  height: 100vh;
-  background-color: #222222;
+  padding: 150px 0 0px;
+  height: 70vh;
+  // background-color: #EBEBEB;
+  background-image: url(../Assets/img-jumbotron.png);
+  background-size: cover;
+  color: #FFFFFF;
+
+  .title  {
+    font-size: 60px;
+    font-weight: 900;
+  }
+
+  // Stats
+  .section-categories {
+    margin-top: 150px;
+    color: #222;
+    background-color: #FFF;
+    border-radius: 10px;
+  
+    .categories-detail {
+      padding-top: 15px;
+
+      .icon-category  {
+        width: 40px;
+      }
+    }
+  
+    h2 {
+      font-size: 30px;
+      margin-bottom: 0;
+  
+    }
+  
+    p {
+      margin-top: 10px;
+      font-size: 14px;
+      font-weight: 300;
+    }
+  }
 }

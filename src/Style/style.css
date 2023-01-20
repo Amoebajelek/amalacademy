@@ -4,6 +4,9 @@ body {
   font-weight: 500;
   color: #222222;
 }
+body .purple-color {
+  color: #814EDF;
+}
 
 #Navigation .logo-brand {
   width: 40px;
@@ -13,6 +16,34 @@ body {
 }
 
 #Header {
-  height: 100vh;
-  background-color: #222222;
+  padding: 150px 0 0px;
+  height: 70vh;
+  background-image: url(../Assets/img-jumbotron.png);
+  background-size: cover;
+  color: #FFFFFF;
+}
+#Header .title {
+  font-size: 60px;
+  font-weight: 900;
+}
+#Header .section-categories {
+  margin-top: 150px;
+  color: #222;
+  background-color: #FFF;
+  border-radius: 10px;
+}
+#Header .section-categories .categories-detail {
+  padding-top: 15px;
+}
+#Header .section-categories .categories-detail .icon-category {
+  width: 40px;
+}
+#Header .section-categories h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+#Header .section-categories p {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 300;
 }/*# sourceMappingURL=style.css.map */

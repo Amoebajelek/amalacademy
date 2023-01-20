@@ -1,4 +1,3 @@
-import React from 'react'
 import Logo from '../Assets/logo.png'
 
 const Navigation = () => {
@@ -45,7 +44,21 @@ const Navigation = () => {
                 </ul>
               </li>
             </ul>
-            <a href='/#' className='ms-auto'><button type="button" className="btn btn-register px-3">Login / Register</button></a>
+            
+            {/* Mobile button */}
+            <form className="form-inline d-sm-block d-md-none">
+              <button className="btn btn-register my-2 my-sm-0">
+                Login / Register
+              </button>
+            </form>
+
+            {/* Desktop Button */}
+            <form className="form-inline my-2 my-lg-0 d-none d-md-block ms-auto">
+              <button className="btn btn-register my-2 my-sm-0 px-4">
+              Login / Register
+              </button>
+            </form>
+            
           </div>
         </div>
       </nav>
