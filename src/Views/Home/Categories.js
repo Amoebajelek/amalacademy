@@ -11,7 +11,7 @@ const Categories = () => {
           </div>
         </div>
         
-        <div className="row justify-content-between">
+        <div className="row justify-content-around">
           <div className="col-lg-4 col-sm-12 list-categories bg-white mt-5">
             <div className='row mx-auto my-auto'>
               <div className='col-2'>
@@ -47,7 +47,7 @@ const Categories = () => {
           </div>
         </div>
 
-        <div className="row justify-content-between">
+        <div className="row justify-content-around">
           <div className="col-lg-4 col-sm-12 list-categories bg-white mt-5">
             <div className='row mx-auto my-auto'>
               <div className='col-2'>
