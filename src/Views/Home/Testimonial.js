@@ -19,7 +19,7 @@ const Testimonial = () => {
           <div className="col-lg-4 mt-5">
             <CardTestimonial
               image={ImgProfile1}
-              title='Hemat Waktu'
+              title='Alur Belajar Jelas'
               testimonial='Terbaik! Kelasnya mendukung banget untuk kemajuan ilmu UI/UX Design'
               name='Michael'
               occupation='Front-End Web Developer'

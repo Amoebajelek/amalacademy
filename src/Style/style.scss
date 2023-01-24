@@ -203,5 +203,22 @@ body {
       margin-top: -10px;
     }
   }
+}
 
+#FAQs {
+  padding-top: 150px;
+  padding-bottom: 150px;
+
+  h3 {
+    margin-top: -10px;
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .accordion {
+    .accordion-button {
+      font-size: 18px;
+      font-weight: 700;
+    }
+  }
 }

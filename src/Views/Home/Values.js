@@ -7,7 +7,7 @@ const Values = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 col-sm-12 mb-5">
-            <img src={ImgValues} classNam='img-fluid img-values' alt='img-values' />
+            <img src={ImgValues} className='img-fluid img-values' alt='img-values' />
           </div>
           <div className="col-lg-6 col-sm-12 my-auto">
             <p className="purple-color">You Deserve Better Career</p>
