@@ -1,3 +1,4 @@
+import Footer from "../../Components/Footer"
 import Navigation from "../../Components/Navigation"
 import Bootcamps from "./Bootcamps"
 import Categories from "./Categories"
@@ -18,6 +19,7 @@ const Homepage = () => {
       <Values />
       <Testimonial />
       <FAQs />
+      <Footer />
     </div>
   )
 }

@@ -177,4 +177,32 @@ body .card .logo-tech {
 #FAQs .accordion .accordion-button {
   font-size: 18px;
   font-weight: 700;
+}
+
+#Footer {
+  justify-content: start;
+}
+#Footer .logo {
+  width: 207px;
+}
+#Footer .link-social-media {
+  margin-right: 20px;
+}
+#Footer .link-social-media img {
+  width: 40px;
+}
+#Footer h4 {
+  font-size: 20px;
+  font-weight: 600;
+}
+#Footer a {
+  text-decoration: none;
+  color: #222;
+}
+#Footer .link {
+  margin: 5px;
+}
+#Footer footer {
+  background-color: #814EDF;
+  font-weight: 500;
 }/*# sourceMappingURL=style.css.map */
